@@ -1,0 +1,1 @@
+from apps.events.tests.subscription import *
