@@ -1,4 +1,4 @@
-Django==1.6.3
+Django==1.11.28
 MySQL-python==1.2.5
 South==0.8.3
 amqp==1.4.4
