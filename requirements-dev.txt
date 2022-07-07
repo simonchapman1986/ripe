@@ -3,7 +3,7 @@ beautifulsoup4==4.3.2
 clonedigger==1.1.0
 coverage==3.7
 django-jenkins==0.15.0
-logilab-common==0.60.0
+logilab-common==0.61.0
 mock==1.0.1
 model-mommy==1.2
 PyHamcrest==1.8.0
